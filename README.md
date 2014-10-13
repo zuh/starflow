@@ -23,3 +23,8 @@ axis and optionally plots a pretty picture of it.
 
 Main use-case is to provide plots into a GUI for checking alignment
 prior to shooting stars (pun intended).
+
+Build from the directory by running "make".
+
+You'll need working astrometry install, GSL and WCS libraries.
+(better build system and more detailed instructions TBD)
